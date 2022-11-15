@@ -287,8 +287,8 @@ header button:hover
     display: inline-block;
     background: linear-gradient(90deg, rgba(1,17,55,0.6) 50%, rgba(255,239,171,0.1) 100%);
     position: absolute;
-    top: 0;
     right: 0;
+    top: 0;
 }
 
 .sec-bg .sec-1-text p
